@@ -1,5 +1,7 @@
 # docker-laravel
 
+This is sample docker laravel setup to deploy
+
 #### ❄️ Author: Quyen Dang
 
 #### 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJS/
